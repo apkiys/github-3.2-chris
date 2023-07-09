@@ -5,7 +5,7 @@ This is the assignment for Module 3.2
 
 # Assignment for Module 3.2
 ### _GitHub_
-[![GitHub](https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Simbolo.png)](https://github.com/apkiys/github-3.1-chris)
+[![GitHub](https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Simbolo.png)](https://github.com/apkiys/github-3.2-chris)
 
 #### what is GitHub Authentication and how what methods available to be implemented?
 GitHub Authentication is a way for people to prove their identity and access certain features on GitHub, a platform for hosting and collaborating on software projects. It ensures that only authorized individuals can perform actions like uploading code or accessing sensitive information.
@@ -52,3 +52,7 @@ The following 4 commands would most likely be used very often due to basic usage
 - git add (for putting changes to staging area)
 - git commit (for preparing snapshot of local repository)
 - git push/pull (for pushing or pulling changes to or from remote repository)
+-----------------------------------------------------------------
+
+git config --global --add safe.directory C:/******/github-3.2-chris
+git remote set-url origin git@github.com:apkiys/github-3.2-chris.git
