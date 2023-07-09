@@ -20,6 +20,7 @@ GitHub Authentication is a way for people to prove their identity and access cer
 - These methods provide different levels of security and control depending on the needs of the user or application.
 
 -----------------------------------------------------------------
+
 #### The following are the commands I have used in familiarising with Git and GitHub:
 - (Create remote repository in GitHub) gh repo create github-3.2-chris --public --description 'This is the assignment for Module 3.2' --add-readme
 - (Download repository into local) git clone git@github.com:apkiys/github-3.2-chris
@@ -43,3 +44,11 @@ GitHub Authentication is a way for people to prove their identity and access cer
 - (Add changes to staging area in branch for new contents) git add .
 - (Commit changes) git commit -m 'Create changes on README file on main'
 - (Push changes to remote repository main) git push origin main
+-----------------------------------------------------------------
+
+#### What are the 4 Github commands that you think you will use the most in the real project and why?
+The following 4 commands would most likely be used very often due to basic usage for git: To have collaborative work using version control.
+- git checkout (for changing between branches during production)
+- git add (for putting changes to staging area)
+- git commit (for preparing snapshot of local repository)
+- git push/pull (for pushing or pulling changes to or from remote repository)
