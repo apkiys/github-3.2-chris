@@ -54,5 +54,5 @@ The following 4 commands would most likely be used very often due to basic usage
 - git push/pull (for pushing or pulling changes to or from remote repository)
 -----------------------------------------------------------------
 
-git config --global --add safe.directory C:/******/github-3.2-chris
-git remote set-url origin git@github.com:apkiys/github-3.2-chris.git
+- git config --global --add safe.directory C:/******/github-3.2-chris
+- git remote set-url origin git@github.com:apkiys/github-3.2-chris.git
